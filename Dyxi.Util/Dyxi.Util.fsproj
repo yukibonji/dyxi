@@ -60,6 +60,7 @@
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Misc.fs" />
     <Compile Include="Collections.fs" />
+    <Compile Include="PersistentBTree.fs" />
     <Compile Include="Reflection.fs" />
     <Compile Include="Trial.fs" />
     <Compile Include="Threading.fs" />
